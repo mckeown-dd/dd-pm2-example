@@ -1,0 +1,3 @@
+apps:
+  name: test
+  script: build/server.js
